@@ -1,2 +1,2 @@
 # HTML-Projects
-The projects consist a T0ribute page.
+The projects consist a Tribute page.
